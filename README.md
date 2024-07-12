@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kfaysal44
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning rect js
-- 💞️ I’m looking to collaborate on javasript
+- 🌱 I’m currently working react js and next js
+- 💞️ I’m looking to collaborate on Javascript and Typescript
 - 📫 How to reach me ...
 
 <!---
