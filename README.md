@@ -9,4 +9,4 @@ Full-stack developer specializing in frontend engineering — I build fast, resp
 - 📫 Reach me: [kfaysal44@gmail.com](mailto:kfaysal44@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-faisal-jahangir-6aa847125/)
 
 <!-- Optional: GitHub stats widget -->
-![kfaysal44's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfaysal44&show_icons=true&theme=default)
+![kfaysal44's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kfaysal44&show_icons=true&theme=default)
