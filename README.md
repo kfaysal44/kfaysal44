@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @kfaysal44
-- 👀 I’m interested in coding
-- 🌱 I’m currently working react js and next js
-- 💞️ I’m looking to collaborate on Javascript and Typescript
-- 📫 How to reach me ...
+### Hi, I'm Faisal 👋
 
-<!---
-kfaysal44/kfaysal44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer specializing in frontend engineering — I build fast, responsive, and accessible UIs with **React**, **Next.js**, and **TypeScript**.
+
+- 🔭 Currently building UI-heavy web applications with a focus on performance and clean component architecture
+- 🌱 Sharpening my TypeScript and Next.js skills
+- 💬 Ask me about React patterns, component design, or frontend performance
+- 📌 Check out [path-finder-fe](https://github.com/devCodeBank/path-finder-fe) — one of my recent projects
+- 📫 Reach me: [kfaysal44@gmail.com](mailto:kfaysal44@gmail.com) · [LinkedIn](https://www.linkedin.com/in/m-faisal-jahangir-6aa847125/)
+
+<!-- Optional: GitHub stats widget -->
+![kfaysal44's GitHub stats](https://github-readme-stats.vercel.app/api?username=kfaysal44&show_icons=true&theme=default)
